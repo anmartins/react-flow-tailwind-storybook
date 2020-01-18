@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+.lora, %lora {
+  font-family: 'Lora', serif;
+}
+
+.capitalize-first-letter {
+  &::first-letter {
+    text-transform: uppercase;
+  }
+}

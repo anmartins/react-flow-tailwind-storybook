@@ -1,5 +1,8 @@
 @import "tailwindcss/base";
+@import "base/variables.scss";
+@import "base/fonts.scss";
 
 @import "tailwindcss/components";
+@import "components/inputs.scss";
 
 @import "tailwindcss/utilities";
